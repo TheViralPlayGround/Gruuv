@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684969027554",
+    "project_id": "gruuv-2b5e8",
+    "storage_bucket": "gruuv-2b5e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684969027554:android:e017a4cc6b83e5b82f3bbb",
+        "android_client_info": {
+          "package_name": "com.gruuv.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3t20sQGAMf6U54E-hNhbQin8uNBORLDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "Motivational"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "Motivational"
+  },
+  {
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "Motivational"
+  },
+  {
+    "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Don’t watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "Perseverance"
+  },
+  {
+    "quote": "You miss 100% of the shots you don’t take.",
+    "author": "Wayne Gretzky",
+    "category": "Courage"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Dream big and dare to fail.",
+    "author": "Norman Vaughan",
+    "category": "Motivational"
+  },
+  {
+    "quote": "The harder you work for something, the greater you’ll feel when you achieve it.",
+    "author": "Unknown",
+    "category": "Hard Work"
+  },
+  {
+    "quote": "Don’t stop when you’re tired. Stop when you’re done.",
+    "author": "Unknown",
+    "category": "Perseverance"
+  },
+  {
+    "quote": "Wake up with determination. Go to bed with satisfaction.",
+    "author": "Unknown",
+    "category": "Motivational"
+  },
+  {
+    "quote": "Do something today that your future self will thank you for.",
+    "author": "Unknown",
+    "category": "Action"
+  },
+  {
+    "quote": "Little things make big days.",
+    "author": "Unknown",
+    "category": "Motivational"
+  },
+  {
+    "quote": "It’s going to be hard, but hard does not mean impossible.",
+    "author": "Unknown",
+    "category": "Courage"
+  },
+  {
+    "quote": "Don’t wait for opportunity. Create it.",
+    "author": "Unknown",
+    "category": "Action"
+  },
+  {
+    "quote": "Sometimes we’re tested not to show our weaknesses, but to discover our strengths.",
+    "author": "Unknown",
+    "category": "Resilience"
+  },
+  {
+    "quote": "The key to success is to focus on goals, not obstacles.",
+    "author": "Unknown",
+    "category": "Motivational"
+  },
+  {
+    "quote": "Push yourself, because no one else is going to do it for you.",
+    "author": "Unknown",
+    "category": "Hard Work"
+  },
+  {
+    "quote": "Great things never come from comfort zones.",
+    "author": "Unknown",
+    "category": "Growth"
+  },
+  {
+    "quote": "Dream it. Wish it. Do it.",
+    "author": "Unknown",
+    "category": "Action"
+  },
+  {
+    "quote": "Success doesn’t just find you. You have to go out and get it.",
+    "author": "Unknown",
+    "category": "Motivational"
+  },
+  {
+    "quote": "The harder you work, the luckier you get.",
+    "author": "Gary Player",
+    "category": "Hard Work"
+  },
+  {
+    "quote": "Start where you are. Use what you have. Do what you can.",
+    "author": "Arthur Ashe",
+    "category": "Action"
+  },
+  {
+    "quote": "Do what you can with all you have, wherever you are.",
+    "author": "Theodore Roosevelt",
+    "category": "Action"
+  },
+  {
+    "quote": "The future depends on what you do today.",
+    "author": "Mahatma Gandhi",
+    "category": "Motivational"
+  },
+  {
+    "quote": "You don’t have to be great to start, but you have to start to be great.",
+    "author": "Zig Ziglar",
+    "category": "Growth"
+  },
+  {
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney",
+    "category": "Action"
+  },
+  {
+    "quote": "Don’t let yesterday take up too much of today.",
+    "author": "Will Rogers",
+    "category": "Motivational"
+  },
+  {
+    "quote": "It’s not whether you get knocked down, it’s whether you get up.",
+    "author": "Vince Lombardi",
+    "category": "Resilience"
+  },
+  {
+    "quote": "If you are working on something that you really care about, you don’t have to be pushed. The vision pulls you.",
+    "author": "Steve Jobs",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Failure will never overtake me if my determination to succeed is strong enough.",
+    "author": "Og Mandino",
+    "category": "Motivational"
+  },
+  {
+    "quote": "We may encounter many defeats but we must not be defeated.",
+    "author": "Maya Angelou",
+    "category": "Resilience"
+  },
+  {
+    "quote": "The man who has confidence in himself gains the confidence of others.",
+    "author": "Hasidic Proverb",
+    "category": "Confidence"
+  },
+  {
+    "quote": "Don’t wish it were easier. Wish you were better.",
+    "author": "Jim Rohn",
+    "category": "Growth"
+  },
+  {
+    "quote": "It always seems impossible until it’s done.",
+    "author": "Nelson Mandela",
+    "category": "Resilience"
+  },
+  {
+    "quote": "Security is mostly a superstition. Life is either a daring adventure or nothing.",
+    "author": "Helen Keller",
+    "category": "Courage"
+  },
+  {
+    "quote": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius",
+    "category": "Perseverance"
+  },
+  {
+    "quote": "Courage is one step ahead of fear.",
+    "author": "Coleman Young",
+    "category": "Courage"
+  },
+  {
+    "quote": "You only live once, but if you do it right, once is enough.",
+    "author": "Mae West",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Work hard in silence, let your success be your noise.",
+    "author": "Frank Ocean",
+    "category": "Hard Work"
+  },
+  {
+    "quote": "Dream big and dare to fail.",
+    "author": "Norman Vaughan",
+    "category": "Motivational"
+  },
+  {
+    "quote": "You miss 100% of the shots you don’t take.",
+    "author": "Wayne Gretzky",
+    "category": "Action"
+  },
+  {
+    "quote": "Don’t count the days, make the days count.",
+    "author": "Muhammad Ali",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Hardships often prepare ordinary people for an extraordinary destiny.",
+    "author": "C.S. Lewis",
+    "category": "Resilience"
+  },
+  {
+    "quote": "Believe you can and you’re halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "Confidence"
+  },
+  {
+    "quote": "Do one thing every day that scares you.",
+    "author": "Eleanor Roosevelt",
+    "category": "Courage"
+  },
+  {
+    "quote": "Your limitation—it’s only your imagination.",
+    "author": "Unknown",
+    "category": "Motivational"
+  },
+  {
+    "quote": "Push yourself, because no one else is going to do it for you.",
+    "author": "Unknown",
+    "category": "Hard Work"
+  },
+  {
+    "quote": "Great things never come from comfort zones.",
+    "author": "Unknown",
+    "category": "Growth"
+  },
+  {
+    "quote": "Dream it. Wish it. Do it.",
+    "author": "Unknown",
+    "category": "Action"
+  },
+  {
+    "quote": "Stay focused and never give up.",
+    "author": "Unknown",
+    "category": "Motivational"
+  },
+  {
+    "quote": "Don’t stop when you’re tired. Stop when you’re done.",
+    "author": "Unknown",
+    "category": "Hard Work"
+  },
+  {
+    "quote": "Wake up with determination. Go to bed with satisfaction.",
+    "author": "Unknown",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Do something today that your future self will thank you for.",
+    "author": "Unknown",
+    "category": "Growth"
+  },
+  {
+    "quote": "Little things make big days.",
+    "author": "Unknown",
+    "category": "Motivational"
+  },
+  {
+    "quote": "It’s going to be hard, but hard does not mean impossible.",
+    "author": "Unknown",
+    "category": "Resilience"
+  },
+  {
+    "quote": "Don’t wait for opportunity. Create it.",
+    "author": "Unknown",
+    "category": "Action"
+  },
+  {
+    "quote": "Sometimes we’re tested not to show our weaknesses, but to discover our strengths.",
+    "author": "Unknown",
+    "category": "Growth"
+  },
+  {
+    "quote": "The key to success is to focus on goals, not obstacles.",
+    "author": "Unknown",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "The harder you work for something, the greater you’ll feel when you achieve it.",
+    "author": "Unknown",
+    "category": "Hard Work"
+  },
+  {
+    "quote": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "category": "Happiness"
+  },
+  {
+    "quote": "Action is the foundational key to all success.",
+    "author": "Pablo Picasso",
+    "category": "Action"
+  },
+  {
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "category": "Motivational"
+  },
+  {
+    "quote": "Life is what happens when you’re busy making other plans.",
+    "author": "John Lennon",
+    "category": "Life"
+  },
+  {
+    "quote": "You don’t have to be great to start, but you have to start to be great.",
+    "author": "Zig Ziglar",
+    "category": "Growth"
+  },
+  {
+    "quote": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius",
+    "category": "Resilience"
+  },
+  {
+    "quote": "Everything you’ve ever wanted is on the other side of fear.",
+    "author": "George Addair",
+    "category": "Courage"
+  },
+  {
+    "quote": "Success is not in what you have, but who you are.",
+    "author": "Bo Bennett",
+    "category": "Success"
+  },
+  {
+    "quote": "Success is how high you bounce when you hit bottom.",
+    "author": "George S. Patton",
+    "category": "Resilience"
+  },
+  {
+    "quote": "If you want something you’ve never had, you must be willing to do something you’ve never done.",
+    "author": "Thomas Jefferson",
+    "category": "Action"
+  },
+  {
+    "quote": "Start where you are. Use what you have. Do what you can.",
+    "author": "Arthur Ashe",
+    "category": "Motivational"
+  },
+  {
+    "quote": "Failure will never overtake me if my determination to succeed is strong enough.",
+    "author": "Og Mandino",
+    "category": "Resilience"
+  },
+  {
+    "quote": "With the new day comes new strength and new thoughts.",
+    "author": "Eleanor Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+    "author": "Zig Ziglar",
+    "category": "Growth"
+  },
+  {
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "Action"
+  },
+  {
+    "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs",
+    "category": "Life"
+  },
+  {
+    "quote": "I can’t change the direction of the wind, but I can adjust my sails to always reach my destination.",
+    "author": "Jimmy Dean",
+    "category": "Resilience"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "Courage"
+  },
+  {
+    "quote": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+    "author": "Christian D. Larson",
+    "category": "Confidence"
+  },
+  {
+    "quote": "Don’t let yesterday take up too much of today.",
+    "author": "Will Rogers",
+    "category": "Motivational"
+  }
+]
